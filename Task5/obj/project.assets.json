@@ -24639,11 +24639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS Projects\\HW4.2\\Task5\\Task5.csproj",
+      "projectUniqueName": "D:\\VSProjects\\HW4.2\\Task5\\Task5.csproj",
       "projectName": "Task5",
-      "projectPath": "D:\\VS Projects\\HW4.2\\Task5\\Task5.csproj",
+      "projectPath": "D:\\VSProjects\\HW4.2\\Task5\\Task5.csproj",
       "packagesPath": "C:\\Users\\WaiDenShin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS Projects\\HW4.2\\Task5\\obj\\",
+      "outputPath": "D:\\VSProjects\\HW4.2\\Task5\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

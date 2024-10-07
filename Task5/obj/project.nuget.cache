@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLoasw15SHCY+MbGgw2V6JWQSFVJmR6ewkC3SyWrk/GnTkIsbpnYyK5keE2dM9fgoXH+2PDmC4Sa6J/jNsRMmQ==",
+  "dgSpecHash": "Nnln6BOHxyM0eLV4+0wu2dviPmQLfnXzKkiiD7Yuyp5YAhxSJK/g8BI567FIIQh7AQULHarmKiGz5zJmYpXVNg==",
   "success": true,
-  "projectFilePath": "D:\\VS Projects\\HW4.2\\Task5\\Task5.csproj",
+  "projectFilePath": "D:\\VSProjects\\HW4.2\\Task5\\Task5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WaiDenShin\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\WaiDenShin\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
